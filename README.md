@@ -1,5 +1,5 @@
 # Apuntes-curso-Java
-SÓLO DISPONIBLE EN ESPAÑOL
+SÓLO DISPONIBLE EN ESPAÑOL.
 Bienvenido a los apuntes del curso introductorio al lenguaje de programación JAVA usando Eclipse IDE.
 
 ¡Hola! Si tienes interés en aprender JAVA desde cero, echa un vistazo a este curso. Podrás aprender desde las bases del lenguaje hasta crear programas complejos.
