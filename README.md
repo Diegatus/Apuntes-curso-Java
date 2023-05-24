@@ -18,3 +18,7 @@ archivos, gráficos (animados y estáticos) e imágenes (exceptuando aquellas pe
 terceros). Únicamente se pueden exhibir y utilizar estos contenidos con finalidad educativa o de
 uso propio, que son los únicos propósitos de estas páginas, de, por y para programadores,
 además de al público interesado en general.
+
+La información que se expone en este curso ha sido verificada y revisada, pero no podemos
+asegurar que sea verídica al 100%. Si encontrases algún error o datos que no corresponden,
+por favor, házmelo saber a través de diegovaleroarevalo@gmail.com.
